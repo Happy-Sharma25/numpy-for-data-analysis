@@ -1,5 +1,9 @@
 # NumPy for Data Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Library-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 A collection of NumPy programs covering the core concepts required for data analysis using Python.
 
 ## About
@@ -88,3 +92,7 @@ If you have suggestions or feedback, feel free to connect with me on GitHub.
 
 ⭐ If you find this repository useful, consider giving it a star.# numpy-for-data-analysis
 Hands-on NumPy examples and exercises covering essential concepts for data analysis using Python.
+
+## Future Updates
+
+This repository will continue to be updated as I learn more advanced NumPy concepts and best practices for data analysis.
