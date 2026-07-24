@@ -90,8 +90,7 @@ This repository is part of my preparation for a **Data Analyst** role. My object
 
 If you have suggestions or feedback, feel free to connect with me on GitHub.
 
-⭐ If you find this repository useful, consider giving it a star.# numpy-for-data-analysis
-Hands-on NumPy examples and exercises covering essential concepts for data analysis using Python.
+⭐ If you find this repository useful, consider giving it a star.
 
 ## Future Updates
 
