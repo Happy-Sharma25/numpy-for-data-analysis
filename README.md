@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Library-green)
-![Status](https://img.shields.io/badge/Status-In%20Complete-orange)
+![Status](https://img.shields.io/badge/Status-%20Complete-orange)
 
 A collection of NumPy programs covering the core concepts required for data analysis using Python.
 
